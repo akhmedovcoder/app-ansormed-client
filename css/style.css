@@ -216,10 +216,10 @@ nav{
 }
 
 .registration__section-btn{
-  width: 600px;
+  width: 0px;
   display: flex;
   margin-top: 40px;
-  justify-content: spa;
+  justify-content: space-between;
 }
 
 .registration__section-btn a{
